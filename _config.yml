@@ -1,0 +1,12 @@
+markdown: kramdown
+
+plugins:
+  - jekyll-assets
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - .ruby-version
+  - .ruby-gemset
